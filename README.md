@@ -2,9 +2,6 @@
 
 - 🔭 I’m currently working on **Projects**
 
-- 🌱 I’m currently learning **Data structures and algorithms **
-
-- 🤝 I’m looking for help with **MQTT**
 
 
 ### 🛠 &nbsp;Languages and Tools
